@@ -4,6 +4,7 @@ and other code used for my final year project 'Developing Computer Vision Softwa
 There are three folders;
 
 Image Processing - 
+![WALL-E](https://user-images.githubusercontent.com/94704200/166167617-85e48ff0-a447-4aaa-a41a-ff1ce2cc9401.jpg)
 
 
 Image Classification - 
