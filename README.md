@@ -73,6 +73,7 @@ See this youtube video for calibrating a camera in the app - https://www.youtube
 
 # Object Detection 
 With great difficulty a mask r-cnn OD was set up to begin training on TACO however the time it would take for the code to code to train was infeasible with the hardware available. The example followed for mask r-cnn: https://github.com/matlab-deep-learning/mask-rcnn
+
 The test images were run through on an SSD MobileNetv2 OD to inspect its classification accuracy relatively to the IC+IP seperately.
 Trained SSD MobileNetv2 used for testing: https://www.kaggle.com/code/bouweceunen/training-ssd-mobilenet-v2-with-taco-dataset/data
 
